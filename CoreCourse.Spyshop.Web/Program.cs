@@ -22,3 +22,5 @@ namespace CoreCourse.Spyshop.Web
                 .UseStartup<Startup>();
     }
 }
+
+///dqsdqsdqsdqsdqsdqsdqdsq
