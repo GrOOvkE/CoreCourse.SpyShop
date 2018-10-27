@@ -23,4 +23,4 @@ namespace CoreCourse.Spyshop.Web
     }
 }
 
-///dqsdqsdqsdqsdqsdqsdqdsq
+///dqsdqsdqsdqsdqsdqsdqdsqsdfsdfsdfdffdsfdsdfsdsf
