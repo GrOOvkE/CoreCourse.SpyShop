@@ -29,7 +29,7 @@ namespace CoreCourse.Spyshop.Web
             {
                 app.UseExceptionHandler("/Home/Error");
             }
-            // qdsqsdqsdqsdqsdffdsfdsdfsfdsfdssdfwxdsdqsdqsdqssdqqds
+            // qdsqsdqsdqsdqsdffdsfdsdfsfdsfdssdfw
             app.UseStaticFiles();
             app.UseMvc(routes =>
             {
