@@ -55,6 +55,8 @@ namespace CoreCourse.Spyshop.Web
                
             });
 
+            //dfsklsdjfklsjfklsjfsklfjskdlfjskfjkslfjnsldkdsfsdfsdfsdfsdfsdf
+
             //app.Use(async (context, next) =>
             //{
             //    if (context.Request.Path == "/spyshop")
